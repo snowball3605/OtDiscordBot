@@ -5,7 +5,7 @@ Copyright © 2024 Snowball. All rights reserved.
 Please make sure to download the latest JAVA version
 
 ## How to build yourself?
-1. Download OmniTech.rar
+1. Download OmniTech.rar (https://github.com/snowball3605/OtDiscordBot/releases/latest)
 2. extract rar, you will get bat file and jar file
 3. double click bat file, you will get config.yml file and plugins folder
 4. enter the discord bot token in your config.yml
